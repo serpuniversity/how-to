@@ -1,3 +1,9 @@
+---
+
+title: How To Setup Jupyter Notebook in VS Code (w/ Virtual Env & Kernels)
+
+---
+
 # How To Setup Jupyter Notebook in VS Code (w/ Virtual Env & Kernels)
 
 Figuring out how to how setup a `jupyter notebook` is pretty easy - you just open your terminal, install jupyter & run `jupyter notebook`.
